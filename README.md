@@ -5,6 +5,12 @@ An AutoGG mod which supports many servers.
 
 Download from the releases area.
 
+## Commands
+
+`/creeperautogg` or `/cgg`\
+Allows you to set the delay (in ticks) after which the AutoGG mod will trigger.\
+For example, if the tick delay is set to 20, 1 second after a game ends, GG will be said.
+
 ## Building
 
 [Oracle JDK 8](https://www.oracle.com/java/technologies/downloads/#java8-windows) is needed!
