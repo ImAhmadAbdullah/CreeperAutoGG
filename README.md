@@ -20,12 +20,23 @@ cd CreeperAutoGG
 ./gradlew build
 ```
 
+## Supported Servers
+Currently only the following servers are supported: [Hypixel](https://hypixel.net/), [Pika Network](https://www.pika-network.net/), [Jartex Network](https://www.jartexnetwork.com/), [AcentraMC](https://store.acentramc.com/), [BlocksMC](https://blocksmc.com/), [ColdNetwork](https://coldnetwork.net/) and [DarkLegacyMC](http://discord.darklegacymc.tk/).
+
 ## Contributing
+To suggest a change or a new server to the mod, please create an [issue](https://github.com/MrSpeedy35/CreeperAutoGG/issues).
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+#### Suggesting a server
+First if you are currently in-game, close your game and launch a new instance of the game. You will need to play the gamemode/minigame you desire to be added to the mod. After playing 1 or 2 games. Close your game and go to your [latest.log](https://minecrafthopper.net/help/guides/getting-minecraft-latest-log/).
 
-Please make sure to update tests as appropriate.
+Create an issue with the title [SERVER] - [GAMEMODE] - [VERSION].\
+You will need to describe the gamemode and attach your [latest.log](https://minecrafthopper.net/help/guides/getting-minecraft-latest-log/) to the issue.
+
+#### Suggesting a code change
+If you are an experienced Java programmer, you may request a pull.\
+But if you think you are not much experienced, you can create an [issue](https://github.com/MrSpeedy35/CreeperAutoGG/issues).\
+Use the following formatting: [CODE CHANGE] - [SECTION]\
+For example, [NEW BUTTON] - [GUI]
 
 ## License
 
