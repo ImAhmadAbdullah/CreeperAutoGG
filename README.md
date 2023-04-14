@@ -38,6 +38,14 @@ But if you think you are not much experienced, you can create an [issue](https:/
 Use the following formatting: [CODE CHANGE] - [SECTION]\
 For example, [NEW BUTTON] - [GUI]
 
+## Reporting Bugs
+
+If you find a bug/issue in the mod, please create an [issue](https://github.com/MrSpeedy35/CreeperAutoGG/issues).\
+Using the following formatting: ISSUE: [ISSUE]\
+For example, ISSUE: GUI Problems
+
+I highly recommend checking other issues to avoid duplicates.
+
 ## License
 
 [AGPL 3.0](https://choosealicense.com/licenses/agpl-3.0/)
