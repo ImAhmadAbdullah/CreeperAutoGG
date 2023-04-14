@@ -7,7 +7,7 @@ Download from the releases area.
 
 ## Building
 
-Oracle OpenJDK 1.8 is needed!
+[Oracle JDK 8](https://www.oracle.com/java/technologies/downloads/#java8-windows) is needed!
 ```bash
 git clone https://github.com/MrSpeedy35/CreeperAutoGG
 cd CreeperAutoGG
