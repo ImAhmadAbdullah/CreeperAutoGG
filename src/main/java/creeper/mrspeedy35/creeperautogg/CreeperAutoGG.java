@@ -32,7 +32,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 public class CreeperAutoGG {
 
     public static final String MODID = "creeperautogg";
-    public static final String VERSION = "1.0";
+    public static final String VERSION = "1.0.0";
 
     @Mod.Instance
     private static CreeperAutoGG instance;
