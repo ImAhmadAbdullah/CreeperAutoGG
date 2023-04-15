@@ -39,7 +39,7 @@
 hs_err_pid*
 
 # Other stuff
-build
-.idea
-.gradle
+build/
+.idea/
+.gradle/
 
