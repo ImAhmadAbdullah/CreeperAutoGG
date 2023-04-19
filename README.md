@@ -21,7 +21,7 @@ cd CreeperAutoGG
 ```
 
 ## Supported Servers
-Currently only the following servers are supported: [Hypixel](https://hypixel.net/), [Pika Network](https://www.pika-network.net/), [Jartex Network](https://www.jartexnetwork.com/), [AcentraMC](https://store.acentramc.com/), [BlocksMC](https://blocksmc.com/), [ColdNetwork](https://coldnetwork.net/) and [DarkLegacyMC](http://discord.darklegacymc.tk/).
+Currently only the following servers are supported: [Hypixel](https://hypixel.net/), [Pika Network](https://www.pika-network.net/), [Jartex Network](https://www.jartexnetwork.com/), [AcentraMC](https://store.acentramc.com/), [BlocksMC](https://blocksmc.com/), [ColdNetwork](https://coldnetwork.net/), [DarkLegacyMC](http://discord.darklegacymc.tk/) and [BWHub](https://discord.bwhub.net).
 
 ## Contributing
 To suggest a change or a new server to the mod, please create an [issue](https://github.com/MrSpeedy35/CreeperAutoGG/issues).

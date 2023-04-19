@@ -66,7 +66,7 @@ public class CreeperAutoGGTriggerEvents {
     private Pattern acentraPracticePattern = Pattern.compile("\"(?<rank>[^\\n]*?) \\u2503 (?<player>\\S{1,16}): (?<message>.*)");
     private Pattern acentraRBWPattern = Pattern.compile("\\\\[(?<number>\\d+)\\u272B\\\\] (?<player>\\S{1,16}): (?<message>.*)");
 
-    private final List<String> acentraColdEndingStrings = Arrays.asList("Match Details (click name to view)", "Post-Match Inventories (click to view)");
+    private final List<String> acentraColdBWHubEndingStrings = Arrays.asList("Match Details (click name to view)", "Post-Match Inventories (click to view)", "Match Results (click player to view):");
     private int tick = -1;
 
     @SubscribeEvent(priority = EventPriority.LOW)
@@ -128,6 +128,6 @@ public class CreeperAutoGGTriggerEvents {
     private boolean isEndOfGame(String message) {
         return this.hypixelEndingStrings.stream().anyMatch(message::contains) ||
                 this.craftiEndingStrings.stream().anyMatch(message::contains) ||
-                this.acentraColdEndingStrings.stream().anyMatch(message::contains);
+                this.acentraColdBWHubEndingStrings.stream().anyMatch(message::contains);
     }
 }
